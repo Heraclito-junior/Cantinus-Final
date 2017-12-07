@@ -1,0 +1,2 @@
+include ':app'
+include '..:sinfo.ufrn.br:JApi:1.0.0'

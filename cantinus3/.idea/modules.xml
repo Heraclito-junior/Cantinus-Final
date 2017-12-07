@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../...iml" filepath="$PROJECT_DIR$/../...iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sinfo.ufrn.br/JApi/1.0.0/1.0.0.iml" filepath="$PROJECT_DIR$/../sinfo.ufrn.br/JApi/1.0.0/1.0.0.iml" />
+      <module fileurl="file://$USER_HOME$/AndroidStudioProjects.iml" filepath="$USER_HOME$/AndroidStudioProjects.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop.iml" filepath="$USER_HOME$/Desktop.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop.iml" filepath="$USER_HOME$/Desktop.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop.iml" filepath="$USER_HOME$/Desktop.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop.iml" filepath="$USER_HOME$/Desktop.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop.iml" filepath="$USER_HOME$/Desktop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sinfo.ufrn.br/JApi/JApi.iml" filepath="$PROJECT_DIR$/../sinfo.ufrn.br/JApi/JApi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cantinus3.iml" filepath="$PROJECT_DIR$/cantinus3.iml" />
+      <module fileurl="file://$USER_HOME$/cantinus3.37G.iml" filepath="$USER_HOME$/cantinus3.37G.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../cantinus3.45H.iml" filepath="$PROJECT_DIR$/../../../cantinus3.45H.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sinfo.ufrn.br/sinfo.ufrn.br.iml" filepath="$PROJECT_DIR$/../sinfo.ufrn.br/sinfo.ufrn.br.iml" />
+    </modules>
+  </component>
+</project>
